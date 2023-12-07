@@ -7,7 +7,7 @@ namespace AoC2023
     {
         static void Main()
         {
-            Console.WriteLine($"Day 6 - {Day6.Solution()}");
+            Console.WriteLine($"Day 7 - {Day7.Solution()}");
             Console.ReadKey();
         }
     }
